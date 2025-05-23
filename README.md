@@ -2,19 +2,27 @@
 Interactive Sales Dashboard built in Excel for Blinkit – visualizing retail performance through dynamic KPIs, charts, and filters.
 
 ## 🛒 Blinkit Sales Analysis Dashboard – Excel Project
+
 This project showcases a comprehensive sales performance analysis for Blinkit, an Indian last-minute delivery app. The analysis and dashboard were developed entirely using Microsoft Excel to track, analyze, and visualize sales data across multiple dimensions like item types, outlet size, and outlet location.
 
 -Dataset Used
 <a href="https://github.com/Deepakvnaik18/Blinkit-Sales-Analysis/blob/main/BlinkIT_sales.xlsx">Dataset</a>
+
 <a href="https://github.com/Deepakvnaik18/Blinkit-Sales-Analysis/blob/main/Screenshot%202025-05-23%20155253.png">Dashboard</a>
 
 ## 📊 Tools Used
 Microsoft Excel
+
 Pivot Tables
+
 Slicers for interactivity
+
 Charts (Bar, Line, Doughnut)
+
 Conditional Formatting
+
 Data validation for filter panels
+
 Dashboard layout & formatting
 
 ## 🎯 Objective
