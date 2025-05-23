@@ -26,8 +26,11 @@ Fat content segmentation
 
 ## 📈 Insights Gained
 Tier 3 outlets contribute the most to sales volume.
+
 Regular fat content products are top sellers.
+
 Baked goods and dairy dominate the item category sales.
+
 New outlet establishments peaked in 2017.
 
 # Dashboard Image
