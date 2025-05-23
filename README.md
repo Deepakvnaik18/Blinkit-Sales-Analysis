@@ -28,10 +28,15 @@ Dashboard layout & formatting
 
 ## 🎯 Objective
 To derive actionable insights from sales data and improve business understanding through:
+
 Performance monitoring
+
 Category-wise analysis
+
 Outlet-level evaluation
+
 Fat content segmentation
+
 
 ## 📈 Insights Gained
 Tier 3 outlets contribute the most to sales volume.
